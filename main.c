@@ -5,9 +5,9 @@ FILE* logfile;
 FILE* menufile;
 FILE* userfile;
 
-char cwd[] = "C:/Users/bhave/OneDrive/Desktop/computer science"; // current working directory
-char dbd[] = "C:/Users/bhave/OneDrive/Desktop/computer science/database"; // database directory
-char lgd[] = "C:/Users/bhave/OneDrive/Desktop/computer science/logs.txt"; // logs directory
+char cwd[] = "C:/Users/XXX/OneDrive/Desktop/computer science"; // current working directory
+char dbd[] = "C:/Users/XXX/OneDrive/Desktop/computer science/database"; // database directory
+char lgd[] = "C:/Users/XXX/OneDrive/Desktop/computer science/logs.txt"; // logs directory
 
 
 char current_user[50];
