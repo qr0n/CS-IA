@@ -7,7 +7,7 @@ FILE *userfile;
 
 char cwd[] =
     "C:/Users/XXX/OneDrive/Desktop/compsci";   // current working directory
-char dbd[] = "C:/XXX/bhave/OneDrive/Desktop/"; // database directory
+char dbd[] = "C:/Users/XXX/OneDrive/Desktop/"; // database directory
 char mnd[] =
     "C:/Users/XXX/OneDrive/Desktop/compsci/database/menu.txt"; // menu
                                                                  // directory
